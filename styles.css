@@ -37,3 +37,13 @@ body html {
     box-shadow: 0 2px 11px 0px grey;
     border: 2px solid #bcd6ed;
 }
+
+.foot-note {
+    background-color:#eaeaea ;
+    color: #b7b7b7;
+    width: 400px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 5px;
+}

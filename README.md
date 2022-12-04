@@ -32,7 +32,16 @@ first Main **div** screen-wrapper is created for whole Verify account_UI templat
 
 **6th Image**
 
+- At the end we have applied some css on footer.For that **Div-foor-note** we have applied css properties- **color,background-color,width,border-radius,margin,margin-top.** etc. these css properties we have aplied on HTML file.
 
+
+*********** JavaScript Part *********
+
+- By using JavaScript we have applied some **validation** on input field like
+
+- when we enter **key or value** in first input field then the cursor should go to the next input field.
+
+- 2nd is if we hit the **backspace** then cursor should go to previous input field automatically.
 
 
 
