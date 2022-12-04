@@ -6,6 +6,8 @@ first Main **div** screen-wrapper is created for whole Verify account_UI templat
 
 **p** tag is used for paragraph under the heading. As below
 
+<br /><br />
+
 ![1](https://user-images.githubusercontent.com/111757443/205502686-63a16d94-22e2-40e6-a060-261c543b3bb4.PNG)
 
 
